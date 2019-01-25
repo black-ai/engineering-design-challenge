@@ -9,12 +9,11 @@ You are tasked with designing an electronics enclosure for a small switch-mode p
 # The Power Supply
 The part number for this power supply is CUS30M-12. We have included a .zip archive with 9 photos of the power supply from various angles. Download [here](). 
 
-    wget https://github.com/black-ai/engineering-design-challenge/images/black-engineering-challenge-images.zip
-
+    wget https://github.com/black-ai/engineering-design-challenge/blob/master/images/black-engineering-challenge-images.zip
 
 Two views of the power supply (banana for scale):
-![sm psu view 1](https://github.com/black-ai/engineering-design-challenge/images/image_1.jpg "Switch Mode PSU View 1")
-![sm psu view 2](https://github.com/black-ai/engineering-design-challenge/images/image_2.jpg "Switch Mode PSU View 2")
+![sm psu view 1](https://github.com/black-ai/engineering-design-challenge/blob/master/images/image_1.jpg "Switch Mode PSU View 1")
+![sm psu view 2](https://github.com/black-ai/engineering-design-challenge/blob/master/images/image_2.jpg "Switch Mode PSU View 2")
 
 
 # The Task
