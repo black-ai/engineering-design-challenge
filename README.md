@@ -4,7 +4,7 @@ The purpose of this challenge is to test your ability and approach to designing 
 
 # Introduction
 
-You are tasked with designing an electronics enclosure for a small switch-mode power supply. The PSU takes in 240V from a mains outlet and outputs 12V for some other piece of electronics equipment. We have chosen the power supply, which we will provide limited details about below, and ask that you design / model an enclosure for mounting to either a wall or overhead metal cable trays. 
+You are tasked with designing an electronics enclosure for a small switch-mode power supply. The PSU takes in 240V AC from a mains outlet and outputs 12V DC for some other piece of electronics equipment. We have chosen the power supply, which we will provide limited details about below, and ask that you design / model an enclosure for mounting to either a wall or overhead metal cable trays. 
 
 # The Power Supply
 The part number for this power supply is CUS30M-12. We have included a .zip archive with 9 photos of the power supply from various angles. Download [here](). 
