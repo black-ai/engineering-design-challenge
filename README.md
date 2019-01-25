@@ -7,7 +7,7 @@ The purpose of this challenge is to test your ability and approach to designing 
 You are tasked with designing an electronics enclosure for a small switch-mode power supply. The PSU takes in 240V AC from a mains outlet and outputs 12V DC for some other piece of electronics equipment. We have chosen the power supply, which we will provide limited details about below, and ask that you design / model an enclosure for mounting to either a wall or overhead metal cable trays. 
 
 # The Power Supply
-The part number for this power supply is CUS30M-12. We have included a .zip archive with 9 photos of the power supply from various angles. Download [here](). 
+The part number for this power supply is CUS30M-12. We have included a .zip archive with 9 photos of the power supply from various angles. Download [here](https://github.com/black-ai/engineering-design-challenge/blob/master/images/black-engineering-challenge-images.zip). 
 
     wget https://github.com/black-ai/engineering-design-challenge/blob/master/images/black-engineering-challenge-images.zip
 
