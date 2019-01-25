@@ -1,6 +1,6 @@
 # engineering-design-challenge
 
-The purpose of this challenge is to test your ability and approach to designing functional objects for manufacturing. This challenge should take you 1-2 hours to complete. 
+The purpose of this challenge is to test your ability and approach to designing functional objects for manufacturing. This challenge should take you 1-2 hours to complete. Add an extra hour for research. 
 
 # Introduction
 
