@@ -4,7 +4,7 @@ The purpose of this challenge is to test your ability and approach to designing 
 
 # Introduction
 
-You are tasked with designing an electronics enclosure for a small switch-mode power supply, that was take in 240V from a mains outlet and output 12V for some other piece of electronics equipment. We have chosen the power supply, which we will provide limited details about below, and ask that you model an enclosure for mounting to either a wall or overhead metal cable trays. 
+You are tasked with designing an electronics enclosure for a small switch-mode power supply. The PSU takes in 240V from a mains outlet and outputs 12V for some other piece of electronics equipment. We have chosen the power supply, which we will provide limited details about below, and ask that you design / model an enclosure for mounting to either a wall or overhead metal cable trays. 
 
 # The Power Supply
 The part number for this power supply is CUS30M-12. We have included a .zip archive with 9 photos of the power supply from various angles. Download [here](). 
@@ -19,12 +19,12 @@ Two views of the power supply (banana for scale):
 # The Task
 
 1.  Read the Requirements and Considerations section below. 
-2.  Sketch and model an enclosure for the above power supply.  
+2.  Sketch and model an enclosure in your choice of CAD software for the above power supply.  
 3.  Create a (public) git repository containing a .STEP file with your completed enclosure model, and a README.md file documenting the following: 
     - Any assumptions you made, and why. 
     - Any interesting design choices or considerations you made. 
     - Any final comments. 
-4.  Submit a link to your repository to contact@black.ai with the subject line "ENG_CHALLENGE | <your_name>"
+4.  Send an email with a link to your repository to contact@black.ai with the subject line "ENG_CHALLENGE | <your_name>"
 
 # Requirements and Considerations
 
